@@ -1,1 +1,1 @@
-print("I'm hungry")
+"i am hungry"
